@@ -1,0 +1,17 @@
+.numbersContainer{
+    display: flex;
+    justify-content: center;
+    background: #222;
+    color: #fff;
+    padding: 20px;
+    font-size: 30px;
+    width: 30%;
+    margin: auto;
+    margin-top: 1%;
+}
+
+.numbers{
+ padding: 0 10px;
+ margin: 0 5px;
+ border: solid 2px #0575ff;
+}
